@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Jillian Menichetti 👋
 
-<!--
-**menichettijillian/menichettijillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Full-Stack Jr. con foco en **Ruby on Rails, SQL e integración de inteligencia artificial**. Me gusta transformar problemas reales en productos web útiles, claros y confiables.
 
-Here are some ideas to get you started:
+Actualmente busco oportunidades como **Backend Junior** o **Full-Stack Junior**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Ruby on Rails · Ruby · SQL · JavaScript
+- HTML · CSS · APIs REST
+- Git · GitHub · MVC
+- IA generativa · LLMs · RAG
+
+## Proyectos destacados
+
+### [Bloomdory](https://github.com/menichettijillian/bloomdory)
+
+Aplicación web para organizar actividades y planificación semanal con un asistente conversacional basado en el contexto de la agenda.
+
+[Ver aplicación](https://bloomdory-15a9482e61c8.herokuapp.com/)
+
+### [Matria](https://github.com/YaelSJ/matria)
+
+Plataforma colaborativa para centralizar testimonios y facilitar la gestión y revisión de casos.
+
+[Ver aplicación](https://matriayuda.me/)
+
+## Contacto
+
+- 🌐 [Portfolio](https://menichettijillian.github.io/portfolio-jillian/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jillian-menichetti-villegas-03b898423/)
+- 📫 jmenichetti16@gmail.com
